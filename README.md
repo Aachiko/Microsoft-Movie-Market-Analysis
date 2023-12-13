@@ -28,7 +28,8 @@ To do this, over 7,000 records have been retrieved ranging from 2013.
 
 ## Additional Information
 Full analysis available on [GitHub Repo] (https://github.com/Aachiko/Microsoft-Movie-Market-Analysis/blob/main/Movie%20Project.pdf)
-Presentation available on [Presentation](Movie Project.pdf)
+Presentation available on [Presentation](Microsoft-Movie-Market-Analysis/Movie Project.pdf)
+
 
 
 
