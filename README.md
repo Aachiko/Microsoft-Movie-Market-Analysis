@@ -27,5 +27,10 @@ To do this, over 7,000 records have been retrieved ranging from 2013.
 4) The biggest competitor on both fronts is Buena Vista studio
 
 ## Additional Information
-Full analysis available on github.com//Aachiko/Microsoft-Movie-Market-Analysis/
+Full analysis available on [GitHub Repo] (https://github.com/Aachiko/Microsoft-Movie-Market-Analysis/blob/main/Movie%20Project.pdf)
+Presentation available on [Presentation](Movie Project.pdf)
+
+
+
+
 
