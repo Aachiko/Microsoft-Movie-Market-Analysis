@@ -4,8 +4,6 @@ This data analysis project is designed to help Microsoft make decisions based on
 ## Business Problem
 This project aims to have an in-depth look into the possibility of Microsoft joining the movie industry as a key player in creating original video content and a movie studio. 
 Data collected will be used to observe current trends in top-performing movie genres and studios.
-## Data
-The data is selected from IMDB, TMDB, TN, and Rotten Tomatoes. The dataset contains 
 ## DATA SOURCES
 Data analysis will be sourced from several databases.
 Important to this project are grossing figures, movie budgets, and the top-performing studios that will be sourced from Box Office Movies, IMDB, TMDB, and TN databases.
@@ -29,4 +27,5 @@ To do this, over 7,000 records have been retrieved ranging from 2013.
 4) The biggest competitor on both fronts is Buena Vista studio
 
 ## Additional Information
-Full analysis available on
+Full analysis available on github.com//Aachiko/Microsoft-Movie-Market-Analysis/
+
